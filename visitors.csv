@@ -1,0 +1,151 @@
+gender,satisfaction,time,expenditure,membership,education
+F,Very Satisfactory,23.34,431,1,Bachelor's degree
+M,Satisfactory,135.22,462,1,Associate degree or diploma
+F,Satisfactory,41.68,321,0,Bachelor's degree
+M,Satisfactory,14.23,148,0,Bachelor's degree
+F,Very Satisfactory,136.43,352,1,Master's degree or above
+F,Very Satisfactory,37.05,171,0,Bachelor's degree
+F,Netural,28.4,482,1,Master's degree or above
+F,Satisfactory,28.63,245,0,Bachelor's degree
+M,Satisfactory,28.48,431,1,Bachelor's degree
+M,Netural,125.88,455,1,Bachelor's degree
+M,Satisfactory,29.18,384,0,Master's degree or above
+M,Netural,5.01,412,1,Associate degree or diploma
+M,Netural,126.79,478,1,Master's degree or above
+M,Netural,33.52,52,0,Master's degree or above
+M,Netural,40.68,321,1,Bachelor's degree
+F,Very Satisfactory,32.12,101,0,Associate degree or diploma
+M,Netural,218.91,199,0,Master's degree or above
+F,Very Satisfactory,25.71,490,1,Master's degree or above
+F,Satisfactory,26.3,275,0,Bachelor's degree
+M,Netural,52.33,167,1,Master's degree or above
+M,Satisfactory,34.07,196,0,Master's degree or above
+F,Very Satisfactory,128.98,245,1,Bachelor's degree
+F,Very Satisfactory,29.48,350,1,Associate degree or diploma
+M,Very Satisfactory,36.68,296,0,Bachelor's degree
+M,Satisfactory,27.45,52,0,Master's degree or above
+M,Very Satisfactory,21.41,412,1,Bachelor's degree
+M,Netural,37.6,262,0,Associate degree or diploma
+M,Netural,32.66,328,1,Associate degree or diploma
+M,Very Satisfactory,32.88,41,0,Bachelor's degree
+F,Satisfactory,25.51,116,1,Bachelor's degree
+F,Satisfactory,41.82,319,1,Bachelor's degree
+F,Netural,29.2,280,0,Associate degree or diploma
+F,Very Satisfactory,87.32,13,0,Bachelor's degree
+F,Satisfactory,28.99,64,1,Bachelor's degree
+F,Very Satisfactory,19.97,402,1,Bachelor's degree
+F,Very Satisfactory,23.66,192,0,Master's degree or above
+F,Netural,15.56,490,1,Secondary School or less
+M,Very Satisfactory,22.27,96,0,Secondary School or less
+M,Satisfactory,30.65,278,0,Bachelor's degree
+M,Very Satisfactory,29.27,332,1,Secondary School or less
+M,Very Satisfactory,44.6,314,1,Bachelor's degree
+M,Netural,24.45,182,0,Associate degree or diploma
+M,Netural,26.16,381,0,Bachelor's degree
+F,Very Satisfactory,30.76,259,1,Bachelor's degree
+F,Satisfactory,25.05,261,0,Associate degree or diploma
+M,Netural,25.25,38,1,Bachelor's degree
+M,Very Satisfactory,24.14,140,0,Bachelor's degree
+M,Very Satisfactory,22.98,26,1,Associate degree or diploma
+F,Very Satisfactory,28.81,224,0,Bachelor's degree
+F,Satisfactory,29.03,380,1,Bachelor's degree
+F,Satisfactory,18.55,89,0,Bachelor's degree
+F,Very Unsatisfactory,28.34,328,1,Associate degree or diploma
+F,Very Unsatisfactory,24.13,217,0,Associate degree or diploma
+M,Netural,24.88,464,1,Associate degree or diploma
+M,Very Satisfactory,31.7,194,0,Bachelor's degree
+M,Netural,37.5,56,0,Bachelor's degree
+M,Unsatisfactory,46.18,110,0,Bachelor's degree
+M,Unsatisfactory,26.81,127,1,Bachelor's degree
+M,Satisfactory,45.85,82,0,Bachelor's degree
+M,Netural,23.74,236,1,Bachelor's degree
+M,Very Satisfactory,38.25,59,0,Associate degree or diploma
+M,Unsatisfactory,53.39,32,1,Secondary School or less
+M,Very Unsatisfactory,32.72,139,0,Secondary School or less
+M,Very Satisfactory,27.64,65,1,Associate degree or diploma
+M,Netural,32.94,396,1,Secondary School or less
+M,Very Unsatisfactory,47.22,324,0,Bachelor's degree
+M,Satisfactory,23.89,12,0,Secondary School or less
+M,Satisfactory,43.94,342,0,Associate degree or diploma
+M,Satisfactory,43.64,309,1,Bachelor's degree
+M,Netural,35.69,56,1,Bachelor's degree
+F,Netural,33.06,493,1,Associate degree or diploma
+F,Very Unsatisfactory,29.36,485,1,Bachelor's degree
+M,Very Unsatisfactory,30.07,362,0,Bachelor's degree
+M,Very Unsatisfactory,38.19,321,1,Secondary School or less
+F,Very Unsatisfactory,49.56,433,0,Associate degree or diploma
+F,Satisfactory,31.77,255,1,Secondary School or less
+M,Satisfactory,21.87,23,0,Bachelor's degree
+M,Very Satisfactory,27.21,487,1,Associate degree or diploma
+M,Very Satisfactory,35.07,465,1,Associate degree or diploma
+M,Netural,34.36,135,1,Bachelor's degree
+M,Netural,31.58,358,0,Bachelor's degree
+M,Satisfactory,31.64,183,1,Bachelor's degree
+M,Netural,22.02,44,0,Associate degree or diploma
+M,Satisfactory,31.61,69,1,Bachelor's degree
+F,Netural,39.8,25,0,Master's degree or above
+F,Very Satisfactory,38.58,155,1,Master's degree or above
+M,Netural,37.4,21,0,Secondary School or less
+M,Netural,29.78,214,1,Secondary School or less
+M,Satisfactory,31.47,440,1,Bachelor's degree
+F,Satisfactory,23.44,226,0,Master's degree or above
+F,Netural,32.57,431,1,Master's degree or above
+M,Very Satisfactory,35.04,94,1,Secondary School or less
+M,Satisfactory,46.65,339,0,Secondary School or less
+M,Netural,41.01,18,1,Bachelor's degree
+M,Very Satisfactory,29.04,76,0,Associate degree or diploma
+M,Very Satisfactory,35.84,423,1,Secondary School or less
+M,Netural,23.92,137,0,Bachelor's degree
+M,Very Satisfactory,40.03,163,1,Associate degree or diploma
+F,Very Satisfactory,40.78,485,0,Bachelor's degree
+F,Satisfactory,49.97,383,1,Secondary School or less
+M,Very Satisfactory,36.32,132,0,Master's degree or above
+M,Satisfactory,29.2,479,1,Master's degree or above
+M,Very Satisfactory,33.53,186,0,Bachelor's degree
+M,Satisfactory,28.98,197,1,Secondary School or less
+M,Very Unsatisfactory,26.39,187,0,Master's degree or above
+F,Satisfactory,34.34,306,0,Master's degree or above
+F,Satisfactory,25.83,458,1,Secondary School or less
+M,Very Unsatisfactory,34.35,270,0,Associate degree or diploma
+M,Netural,35.84,256,0,Associate degree or diploma
+M,Very Satisfactory,32.58,9,1,Master's degree or above
+M,Very Satisfactory,31.43,472,1,Master's degree or above
+F,Satisfactory,27.81,351,0,Bachelor's degree
+F,Very Satisfactory,24.12,178,0,Secondary School or less
+M,Netural,39.79,116,1,Master's degree or above
+M,Netural,33.18,203,0,Master's degree or above
+M,Satisfactory,40.03,47,0,Secondary School or less
+M,Netural,40.78,73,0,Secondary School or less
+M,Very Satisfactory,49.97,214,1,Master's degree or above
+F,Netural,138.39,410,1,Master's degree or above
+F,Satisfactory,135.84,487,1,Bachelor's degree
+F,Unsatisfactory,12.5,309,0,Secondary School or less
+F,Very Unsatisfactory,32.58,189,0,Associate degree or diploma
+F,Unsatisfactory,31.43,194,0,Master's degree or above
+F,Satisfactory,27.81,33,0,Master's degree or above
+F,Unsatisfactory,24.12,308,1,Associate degree or diploma
+F,Satisfactory,40.03,192,0,Bachelor's degree
+F,Very Unsatisfactory,40.78,45,0,Secondary School or less
+F,Very Unsatisfactory,49.97,40,0,Master's degree or above
+F,Unsatisfactory,1,374,1,Master's degree or above
+F,Satisfactory,40.78,32,0,Associate degree or diploma
+F,Satisfactory,44,223,0,Master's degree or above
+F,Netural,60,116,0,Bachelor's degree
+F,Satisfactory,34.35,7,0,Secondary School or less
+F,Netural,12,185,0,Master's degree or above
+F,Satisfactory,34.35,393,1,Bachelor's degree
+F,Netural,5,246,0,Master's degree or above
+F,Satisfactory,56,215,0,Master's degree or above
+F,Satisfactory,47.64,243,0,Bachelor's degree
+F,Very Unsatisfactory,34,461,1,Secondary School or less
+F,Netural,14,218,0,Associate degree or diploma
+F,Netural,28,379,0,Master's degree or above
+F,Satisfactory,22,38,0,Bachelor's degree
+F,Very Unsatisfactory,27.64,355,1,Secondary School or less
+F,Netural,27.64,103,0,Bachelor's degree
+F,Unsatisfactory,11.2,154,1,Master's degree or above
+F,Netural,80.23,188,0,Associate degree or diploma
+F,Satisfactory,12.5,77,0,Associate degree or diploma
+F,Unsatisfactory,5.5,162,0,Bachelor's degree
+F,Satisfactory,27.64,300,1,Master's degree or above
+M,Satisfactory,40.03,8,0,Bachelor's degree
